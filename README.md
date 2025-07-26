@@ -30,4 +30,31 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
 ---
 
 ## 📁 Project Structure
+simon-game/
+├── index.html # Main HTML file
+├── style.css # Styling for the game
+├── app.js # Game logic
+└── README.md # Project description
+
+
+---
+
+## 📦 Features
+
+- 🎨 Flashing color sequence
+- 🧠 Memory challenge with increasing difficulty
+- 💯 Real-time **high score tracking**
+- 💻 Responsive layout
+- 🎯 Simple and clean UI
+
+---
+
+## 💡 Ideas for Improvement
+
+- Add background sound/music
+- Use `localStorage` to persist high scores across sessions
+- Add levels/difficulty modes
+- Deploy using GitHub Pages
+
+---
 
